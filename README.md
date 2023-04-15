@@ -1,2 +1,2 @@
-# dotfiles-public
+## dotfiles-public
 my dotfiles config
